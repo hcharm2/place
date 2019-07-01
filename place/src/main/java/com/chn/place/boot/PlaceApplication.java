@@ -1,4 +1,4 @@
-package com.chn.place;
+package com.chn.place.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
